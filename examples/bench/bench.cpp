@@ -1,5 +1,5 @@
 #include "whisper.h"
-
+#include <cstring>
 #include <cstdio>
 #include <string>
 #include <thread>
